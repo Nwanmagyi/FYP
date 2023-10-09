@@ -1,0 +1,21 @@
+.login-container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.login-btn {
+  background-color: green;
+  padding: 10px;
+  margin-top: 24px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+
+.form-control {
+  padding: 5px;
+  border: 2px solid green;
+}
+h6{
+  color:rgb(0, 2, 5);
+}
